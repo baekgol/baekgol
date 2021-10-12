@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=B4B4FF&height=200&section=header&text=Baekgol&fontSize=70&fontColor=323232&fontAlign=20&fontAlignY=10&rotate=-10" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=B4B4FF&height=200&section=header&text=Baekgol&fontSize=70&fontColor=323232&fontAlign=20&fontAlignY=45&rotate=-10" alt="header" />
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
