@@ -25,8 +25,8 @@ I'm currently working as a backend engineer at Mindslab. I'm interested and stud
 
 #### Achievements
 
-- 🔭 [iluna](https://play.google.com/store/apps/details?id=com.iluna)(Mission-based alarm application)
-- 🔭 [react-native-alarm-manager](https://github.com/baekgol/react-native-alarm-manager)(Alarm manager for React Native)
+- 📱 [iluna](https://play.google.com/store/apps/details?id=com.iluna)(Mission-based alarm application)
+- 🕰 [react-native-alarm-manager](https://github.com/baekgol/react-native-alarm-manager)(Alarm manager for React Native)
     
 ## 📘 Open Source Projects
 
@@ -47,19 +47,19 @@ I'm currently working as a backend engineer at Mindslab. I'm interested and stud
 </p>
     
 <p>
-  <summary>:fire: Activities</summary>
+  <summary>🔥 Activities</summary>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baekgol&theme=dark&show-icons=true" alt="github-streak" />
 </p>
     
 <p>
-  <summary>:trophy: Github Profile Trophy</summary>
+  <summary>🏆 Github Profile Trophy</summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=baekgol&theme=monokai&row=1&no-frame=true&no-bg=true alt="github-profile-trophy" /">
 </p>
     
 <p>
-  <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+  <summary>📈 Contribution Graph </summary>
   <br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=baekgol&theme=xcode" align="center" alt="contribution-graph" />
 </p>
