@@ -1,57 +1,67 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=B4B4FF&height=200&section=header&text=Baekgol&fontSize=70&fontColor=323232&fontAlign=20&fontAlignY=45&rotate=-10" alt="header" />
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h1>Hi, I am Baekgol<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h4 align="center">Language</h4>
+I'm currently working as a backend engineer at Mindslab. I'm interested and studying to improve server performance. Also, I want to be a developer who can help other developers by releasing libraries.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+#### Languages
+<p>
+  <a href="https://github.com/search?q=user%3Abaekgol+language%3Ajava"><img alt="java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
+  <a href="https://github.com/search?q=user%3Abaekgol+language%3Akotlin"><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white" />
+  <a href="https://github.com/search?q=user%3Abaekgol+language%3Ajavascript"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
 </p>
 
-<h4 align="center">Frontend</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Material UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white" />
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white" alt="spring" />
+  <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" alt="react" />
+</p>
+    
+#### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white" alt="mariadb" />
 </p>
 
-<h4 align="center">Backend</h4>
+#### Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
+- 🔭 [iluna](https://play.google.com/store/apps/details?id=com.iluna)(Mission-based alarm application)
+- 🔭 [react-native-alarm-manager](https://github.com/baekgol/react-native-alarm-manager)(Alarm manager for React Native)
+    
+## 📘 Open Source Projects
+
+<p>
+  <a href="https://github.com/baekgol/react-native-alarm-manager"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=baekgol&repo=react-native-alarm-manager&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="react-native-alarm-manager" />
 </p>
 
-<h4 align="center">Artificial Intelligence</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
+<p>
+  <a href="https://github.com/baekgol?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=white&logo=repo" alt="all-repositories" />
 </p>
 
-<h4 align="center">Image Processing</h4>
+## 💻 Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
+<p>
+  <summary>✏️ Baekjoon</summary>
+  <br/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=changu18" alt="baekjoon" />
 </p>
-<br/>
-
-<h3 align="center">💻 Career 💻</h3>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baekgol&show_icons=true&theme=gruvbox" alt="Baekgol's GitHub stats" />
+    
+<p>
+  <summary>:fire: Activities</summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baekgol&theme=dark&show-icons=true" alt="github-streak" />
 </p>
-<br/>
-
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=changu18" alt="Solved.ac" />
+    
+<p>
+  <summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=baekgol&theme=monokai&row=1&no-frame=true&no-bg=true alt="github-profile-trophy" /">
+</p>
+    
+<p>
+  <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=baekgol&theme=xcode" align="center" alt="contribution-graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=B4B4FF&section=footer" alt="footer" />
