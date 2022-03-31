@@ -47,7 +47,7 @@ I'm currently working as a backend engineer at Mindslab. I'm interested and stud
 </p>
     
 <p>
-  <summary>🔥 Activities</summary>
+  <summary>🔥 Github Streak</summary>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baekgol&theme=dark&show-icons=true" alt="github-streak" />
 </p>
