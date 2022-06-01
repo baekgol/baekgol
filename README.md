@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=B4B4FF&height=200&section=header&text=Baekgol&fontSize=70&fontColor=323232&fontAlign=20&fontAlignY=45&rotate=-10" alt="header" />
 
-<h1>Hi, I am Baekgol<img src="wave.gif" width="30px"></h1>
+<h1>Hi, I am Baekgol<img src="wave.gif" width="35"></h1>
 
 I'm currently working as a backend engineer at MindsLab. I'm interested and studying to improve server performance. Also, I want to be a developer who can help other developers by sharing libraries.
 
