@@ -21,6 +21,7 @@ I'm currently working as a backend engineer at MindsLab. I'm interested and stud
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white" alt="mariadb" />
+  <img src="https://img.shields.io/badge/Elasticsearch-003545?logo=Elasticsearch&logoColor=white" alt="elasticsearch" />
 </p>
 
 #### Achievements
