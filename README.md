@@ -6,15 +6,16 @@ I'm currently working as a backend engineer at MindsLab. I'm interested and stud
 
 #### Languages
 <p>
-  <a href="https://github.com/search?q=user%3Abaekgol+language%3Ajava"><img alt="java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
-  <a href="https://github.com/search?q=user%3Abaekgol+language%3Akotlin"><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white" />
-  <a href="https://github.com/search?q=user%3Abaekgol+language%3Ajavascript"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
+  <a href="https://github.com/search?q=user%3Abaekgol+language%3Ajava"><img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" alt="java" />
+  <a href="https://github.com/search?q=user%3Abaekgol+language%3Akotlin"><img src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white" alt="kotlin" />
+  <a href="https://github.com/search?q=user%3Abaekgol+language%3Ajavascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="javascript" />
 </p>
 
 #### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white" alt="spring" />
   <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="vue" />
 </p>
     
 #### Databases
