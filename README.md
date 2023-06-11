@@ -2,7 +2,7 @@
 
 <h1>Hi, I am Baekgol<img src="wave.gif" width="35"></h1>
 
-I'm currently working as a backend engineer at MindsLab. I'm interested and studying to improve server performance. Also, I want to be a developer who can help other developers by sharing libraries.
+I'm currently working as a backend engineer at MAUM.AI. I'm interested and studying to improve server performance. Also, I want to be a developer who can help other developers by sharing libraries.
 
 #### Languages
 <p>
