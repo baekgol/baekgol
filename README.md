@@ -54,17 +54,5 @@ I'm currently working as a backend engineer at MAUM.AI. I'm interested and study
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baekgol&theme=dark&show-icons=true" alt="github-streak" />
 </p>
-    
-<p>
-  <summary>🏆 Github Profile Trophy</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=baekgol&theme=monokai&row=1&no-frame=true&no-bg=true alt="github-profile-trophy" /">
-</p>
-    
-<p>
-  <summary>📈 Contribution Graph </summary>
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=baekgol&theme=xcode" align="center" alt="contribution-graph" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=B4B4FF&section=footer" alt="footer" />
